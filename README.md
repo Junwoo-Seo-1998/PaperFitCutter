@@ -18,8 +18,12 @@ PaperFit Cutter는 이미지를 원하는 용지 크기에 맞춰 편집하고, 
 
 안녕하세요\! Junwoo Seo입니다. 이 도구가 도움이 되셨다면, 커피 한 잔 어떠세요? 😊  
 (Hello\! I'm Junwoo Seo. If you find this tool helpful, how about buying me a coffee? 😊)  
+
+<a href="https://www.buymeacoffee.com/junwoo.seo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 프로젝트가 마음에 드셨다면 GitHub에서 ⭐ Star를 눌러주세요\!  
-(If you like this project, please give it a ⭐ Star on GitHub\!)  
+(If you like this project, please give it a ⭐ Star on GitHub\!)
+
 문의나 버그 리포트는 GitHub Issues로 부탁드립니다.  
 (For inquiries or bug reports, please use GitHub Issues.)  
 Copyright © 2024 Junwoo Seo. All Rights Reserved.
